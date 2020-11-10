@@ -1,3 +1,5 @@
+https://github.com/yabellini/curso_rgee
+
 # Desafios AgTech 2020
 
 ## Clasificación de cultivos utilizando imágenes satelitales
